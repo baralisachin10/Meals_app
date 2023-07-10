@@ -3,7 +3,8 @@ import 'package:flutter/services.dart';
 
 import 'package:google_fonts/google_fonts.dart';
 // import 'package:meals_app/data/dummy_data.dart';
-import 'package:meals_app/screens/categories_screen.dart';
+// import 'package:meals_app/screens/categories_screen.dart';
+import 'package:meals_app/screens/tab_screen.dart';
 // import 'package:meals_app/screens/categories_screen.dart';
 // import 'package:meals_app/screens/meal_screen.dart';
 
@@ -32,7 +33,7 @@ class App extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       theme: theme,
-      home: const CategoriesScreen(),
+      home: const TabScreen(),
     );
   }
 }
