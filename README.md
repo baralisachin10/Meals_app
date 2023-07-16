@@ -1,8 +1,16 @@
 # meals_app
 
-A new Flutter project.
+Meals_app which use different navigation, riverpod provider and animations
+
+# output
+
+
+![output of meals app](https://github.com/baralisachin10/Meals_app/assets/116510605/25523b0f-4a4b-4c83-a83c-b6b0f6b2af3d)
+
+
 
 ## Getting Started
+
 
 This project is a starting point for a Flutter application.
 
